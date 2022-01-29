@@ -15,5 +15,5 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) This online and print book
     focuses on using Python to do Bayesian modeling. It's a welcome change from all of the Bayesian books in R, JAGS and other
     non-general purpose languages. The other Bayesian book in Python,
-    (Bayesian Methods for Hackers)[https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers]
+    [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     didn't impress me so it's nice to have an alternative.
