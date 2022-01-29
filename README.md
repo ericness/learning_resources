@@ -18,6 +18,13 @@ Books, courses and web sites on technical topics like machine learning and softw
     [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     didn't impress me so it's nice to have an alternative.
 
+## Software Engineering
+
+* Software Architecture
+    * [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+    This looks like a good book. "Architecture veterans and practicing consultants Neal Ford, Mark Richards, Pramod Sadalage,
+    and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
+
 ## Writing
 
 * From [The Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com/)
