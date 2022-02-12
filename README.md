@@ -36,3 +36,15 @@ Books, courses and web sites on technical topics like machine learning and softw
     An hour and a half video from Leadership Lab. One of the best talks about technical writing.
     * [On Writing Well](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202) by Willian Zinsser.
     The classic guide to writing nonfiction. The book that helped me write more concisely.
+
+## Leadership
+
+* Technical Leadership
+    * [Staff Eng Podcast](https://podcast.staffeng.com/)
+    Interviews with Staff-plus engineers from a variety of big tech companies. Sadly, this podcast
+    is no longer being produced.
+
+* Management
+    * [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
+    This book is recommended by one of the hosts of the Staff Eng podcast. It contains a section
+    about "Know How Managers" who are more technical leaders than people managers.
