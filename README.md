@@ -25,6 +25,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     This looks like a good book. "Architecture veterans and practicing consultants Neal Ford, Mark Richards, Pramod Sadalage,
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
 
+* Legacy Systems
+    * [Kill It with Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
+    This book is recommended by the hosts of the Staff Eng podcast. It discusses how to smartly refactor legacy systems
+    without giving in to the knee-jerk reaction to rebuild from scratch.
+
 ## Writing
 
 * From [The Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com/)
