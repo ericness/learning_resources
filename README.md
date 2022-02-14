@@ -31,6 +31,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [fast.ai](https://www.fast.ai/) Courses for anyone to learn how to use neural networks. The courses can
     be used even if you haven't done anything with ML before.
 
+    * [Neural Networks explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+    from 3Brown1Blue. These videos give an intuitive understanding of how neural networks work.
+
 ## Software Engineering
 
 * Software Architecture
