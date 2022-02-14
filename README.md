@@ -18,6 +18,12 @@ Books, courses and web sites on technical topics like machine learning and softw
     [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     didn't impress me so it's nice to have an alternative.
 
+## Machine Learning
+
+* Deep Learning
+    * [fast.ai](https://www.fast.ai/) Courses for anyone to learn how to use neural networks. The courses can
+    be used even if you haven't done anything with ML before.
+
 ## Software Engineering
 
 * Software Architecture
