@@ -25,6 +25,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     The foundational book for machine learning. There is a second edition out that includes deep learning.
 
 * Deep Learning
+    * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
+    Plain English explanations of the fundamentals of how neural networks work.
+
     * [fast.ai](https://www.fast.ai/) Courses for anyone to learn how to use neural networks. The courses can
     be used even if you haven't done anything with ML before.
 
