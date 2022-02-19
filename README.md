@@ -42,6 +42,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
 
 * Data Structures and Algorithms
+
+    * [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+    The classic list of LeetCode questions to focus on for coding interviews. Compiled by a Facebook engineer, the list went
+    viral and is now referenced everywhere.
     * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     Online course created by FAANG engineers to help learn the typical patterns that appear in coding questions and how
     to solve them.
