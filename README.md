@@ -45,6 +45,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     Online course created by FAANG engineers to help learn the typical patterns that appear in coding questions and how
     to solve them.
+    * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+    Blog post written by one of the creators of "Grokking the Coding Interview". Gives a quick overview of the patterns that you'll
+    learn in that course.
     * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
     Filterable list of LeetCode problems to practice different data structures and algorithms patterns.
 
