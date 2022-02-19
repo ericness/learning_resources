@@ -41,6 +41,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     This looks like a good book. "Architecture veterans and practicing consultants Neal Ford, Mark Richards, Pramod Sadalage,
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
 
+* Data Structures and Algorithms
+    * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+    Filterable list of LeetCode problems to practice different data structures and algorithms patterns.
+
 * Legacy Systems
     * [Kill It with Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
     This book is recommended by the hosts of the Staff Eng podcast. It discusses how to smartly refactor legacy systems
