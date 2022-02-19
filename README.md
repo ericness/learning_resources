@@ -42,6 +42,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
 
 * Data Structures and Algorithms
+    * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+    Online course created by FAANG engineers to help learn the typical patterns that appear in coding questions and how
+    to solve them.
     * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
     Filterable list of LeetCode problems to practice different data structures and algorithms patterns.
 
