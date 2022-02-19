@@ -42,7 +42,13 @@ Books, courses and web sites on technical topics like machine learning and softw
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
 
 * Data Structures and Algorithms
-
+    * [A Common Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
+    This is a great book to learn data structures and algorithms. The author has taught a live course on the subject many times
+    and has distilled his learning down to this book. The explanations are clear and well illustrated. I highly recommend
+    this book.
+    * [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
+    The original book that started the craze of technical interview resources. Has over 150 practice questions as well
+    as advice for the interviewing process.
     * [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
     The classic list of LeetCode questions to focus on for coding interviews. Compiled by a Facebook engineer, the list went
     viral and is now referenced everywhere.
