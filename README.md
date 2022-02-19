@@ -42,26 +42,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
 
 * Data Structures and Algorithms
+    * See the Career - Interviewing section for more resources
     * [A Common Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
     This is a great book to learn data structures and algorithms. The author has taught a live course on the subject many times
     and has distilled his learning down to this book. The explanations are clear and well illustrated. I highly recommend
     this book.
-    * [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
-    The original book that started the craze of technical interview resources. Has over 150 practice questions as well
-    as advice for the interviewing process.
-    * [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
-    The classic list of LeetCode questions to focus on for coding interviews. Compiled by a Facebook engineer, the list went
-    viral and is now referenced everywhere.
-    * [Best Practice Questions](https://www.techinterviewhandbook.org/best-practice-questions/)
-    A refinement of the Blind 75 down to 50 questions. Created by the author of the Blind 75.
-    * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
-    Online course created by FAANG engineers to help learn the typical patterns that appear in coding questions and how
-    to solve them.
-    * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-    Blog post written by one of the creators of "Grokking the Coding Interview". Gives a quick overview of the patterns that you'll
-    learn in that course.
-    * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
-    Filterable list of LeetCode problems to practice different data structures and algorithms patterns.
 
 * Legacy Systems
     * [Kill It with Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
@@ -95,6 +80,22 @@ Books, courses and web sites on technical topics like machine learning and softw
 ## Career
 
 * Interviewing
+    * [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
+    The original book that started the craze of technical interview resources. Has over 150 practice questions as well
+    as advice for the interviewing process.
+    * [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+    The classic list of LeetCode questions to focus on for coding interviews. Compiled by a Facebook engineer, the list went
+    viral and is now referenced everywhere.
     * [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
     Free online book for how to prepare for tech interiews. One of the authors of this book is the
-    creator of the famous Blind 75 list of LeetCode problems.
+    creator of the famous Blind 75 list of LeetCode problems. Includes a refinement of the Blind 75 down to 50 questions.
+    * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+    Online course created by FAANG engineers to help learn the typical patterns that appear in coding questions and how
+    to solve them.
+    * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+    Blog post written by one of the creators of "Grokking the Coding Interview". Gives a quick overview of the patterns that you'll
+    learn in that course.
+    * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+    Filterable list of LeetCode problems to practice different data structures and algorithms patterns.
+
+
