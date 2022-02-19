@@ -89,3 +89,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
     This book is recommended by one of the hosts of the Staff Eng podcast. It contains a section
     about "Know How Managers" who are more technical leaders than people managers.
+
+## Career
+
+* Interviewing
+    * [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+    Free online book for how to prepare for tech interiews. One of the authors of this book is the
+    creator of the famous Blind 75 list of LeetCode problems.
