@@ -105,5 +105,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     learn in that course.
     * [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
     Filterable list of LeetCode problems to practice different data structures and algorithms patterns.
+    * [NeetCode](https://www.youtube.com/c/NeetCode)
+    YouTube channel that explains the solutions to LeetCode problems. The explanations are clear and include
+    both a theory and coding portion.
 
 
