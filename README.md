@@ -53,6 +53,14 @@ Books, courses and web sites on technical topics like machine learning and softw
     This book is recommended by the hosts of the Staff Eng podcast. It discusses how to smartly refactor legacy systems
     without giving in to the knee-jerk reaction to rebuild from scratch.
 
+
+## Infrastructure
+
+* DevOps
+    * [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
+    This is a book about the DevOps revolution written in narrative form. It is highly recommended by
+    [Josh Sheppard](https://www.linkedin.com/in/joshua-sheppard/), my group manager at C.H. Robinson.
+
 ## Writing
 
 * From [The Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com/)
