@@ -37,6 +37,8 @@ Books, courses and web sites on technical topics like machine learning and softw
 * MLOps
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
     [Chip Huyen's](https://huyenchip.com/) Stanford course on building production ML systems.
+    * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+    Book on designing ML systems also from [Chip Huyen](https://huyenchip.com/).
 
 ## Software Engineering
 
