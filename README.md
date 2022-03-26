@@ -34,6 +34,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Neural Networks explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     from 3Brown1Blue. These videos give an intuitive understanding of how neural networks work.
 
+* MLOps
+    * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
+    [Chip Huyen's](https://huyenchip.com/) Stanford course on building production ML systems.
+
 ## Software Engineering
 
 * Software Architecture
