@@ -46,6 +46,12 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
     This looks like a good book. "Architecture veterans and practicing consultants Neal Ford, Mark Richards, Pramod Sadalage,
     and Zhamak Dehghani discuss strategies for choosing an appropriate architecture."
+    * [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](
+        https://www.oreilly.com/library/view/strategic-monoliths-and/9780137355600/)
+    Heard a [Software Engineering Radio episode](
+        https://www.se-radio.net/2022/01/episode-495-vaughn-vernon-on-strategic-monoliths-and-microservices/
+    ) with the author of this book. The book recommends making architectural decisions that correspond to the
+    strategic direction of business.
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
