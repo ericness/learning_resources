@@ -24,6 +24,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [An Introduction to Statistical Learning](https://www.statlearning.com/)
     The foundational book for machine learning. There is a second edition out that includes deep learning.
 
+* Data Wrangling
+    * [Pandas Tutor](https://pandastutor.com/)
+    Shows a visual representation of Pandas data manipulation code.
+
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
     Plain English explanations of the fundamentals of how neural networks work.
