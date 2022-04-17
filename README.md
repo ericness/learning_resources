@@ -18,6 +18,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     didn't impress me so it's nice to have an alternative.
 
+* Causal Inference
+    * [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
+    This online and print book is an intuitive and highly-readable introduction to causal inference. It provides
+    examples in R and Stata.
+
 ## Machine Learning
 
 * Introductory
