@@ -69,6 +69,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     This book is recommended by the hosts of the Staff Eng podcast. It discusses how to smartly refactor legacy systems
     without giving in to the knee-jerk reaction to rebuild from scratch.
 
+* Python
+    * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho
+    This is one of the most highly rated books for how to take your Python from beginner to advanced. Teaches you how to
+    write idiomatic Python. The second edition was released in 2022.
 
 ## Infrastructure
 
