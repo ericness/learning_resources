@@ -92,6 +92,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Logic](https://logicmag.io/) This magazine does deep dives into how society is affected by
     technology and vice versa. The articles contain insightful takes on a wide variety of
     technology topics.
+    * [Technology Review](https://www.technologyreview.com/) This online and print magazine from
+    MIT follows the most important technology trends from many fields.
 
 ## Writing
 
