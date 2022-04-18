@@ -86,6 +86,13 @@ Books, courses and web sites on technical topics like machine learning and softw
     This is a book about the DevOps revolution written in narrative form. It is highly recommended by
     [Josh Sheppard](https://www.linkedin.com/in/joshua-sheppard/), my group manager at C.H. Robinson.
 
+## Technology
+
+* Commentary
+    * [Logic](https://logicmag.io/) This magazine does deep dives into how society is affected by
+    technology and vice versa. The articles contain insightful takes on a wide variety of
+    technology topics.
+
 ## Writing
 
 * From [The Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com/)
