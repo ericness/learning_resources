@@ -83,6 +83,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho
     This is one of the most highly rated books for how to take your Python from beginner to advanced. Teaches you how to
     write idiomatic Python. The second edition was released in 2022.
+    * [Powerful Python](https://powerfulpython.com/book/) by Aaron Maxwell. This book is the perfect resource
+    to take you from beginning to intermediate Python.
 
 ## Infrastructure
 
