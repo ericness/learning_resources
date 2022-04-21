@@ -49,6 +49,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
     Book on designing ML systems also from [Chip Huyen](https://huyenchip.com/).
 
+* Data Visualization
+    * [Storytelling with Data](https://www.storytellingwithdata.com/) Great blog and books about
+    data visualization. Cole Nussbaumer Knaflic has created some amazing resources for learning how
+    to communicate data visually.
+
 ## Software Engineering
 
 * Software Architecture
