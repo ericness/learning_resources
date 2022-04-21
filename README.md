@@ -61,6 +61,12 @@ Books, courses and web sites on technical topics like machine learning and softw
     data visualization. Cole Nussbaumer Knaflic has created some amazing resources for learning how
     to communicate data visually.
 
+## Data Systems
+
+* Data Modeling
+    * [Data Modeling Made Simple](https://technicspub.com/data-modeling-made-simple/) by Steve Hoberman.
+    Get a straight-forward introduction to modeling relational data from one of the OGs in the field.
+
 ## Software Engineering
 
 * Software Architecture
