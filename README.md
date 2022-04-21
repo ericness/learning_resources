@@ -23,7 +23,7 @@ Books, courses and web sites on technical topics like machine learning and softw
     This online and print book is an intuitive and highly-readable introduction to causal inference. It provides
     examples in R and Stata.
 
-## Machine Learning
+## Data Science
 
 * Introductory
     * [An Introduction to Statistical Learning](https://www.statlearning.com/)
