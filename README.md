@@ -66,6 +66,13 @@ Books, courses and web sites on technical topics like machine learning and softw
 * Data Modeling
     * [Data Modeling Made Simple](https://technicspub.com/data-modeling-made-simple/) by Steve Hoberman.
     Get a straight-forward introduction to modeling relational data from one of the OGs in the field.
+    * [Object-Role Modeling Fundamentals](https://technicspub.com/object-role-modeling-fundamentals/) by Terry Halpin.
+    Gentle introduction to the most powerful data modeling method. ORM is a theoretically-sound way to build
+    data models that match relationships in the real world.
+    * [Information Modeling and Relational Databases - Second Edition](
+        https://www.elsevier.com/books/information-modeling-and-relational-databases/halpin/978-0-12-373568-3
+    ) by Terry Halpin and Tony Morgan. This is a large textbook that covers much more about ORM than Terry's
+    introductory book. This is the bible of relational data modeling.
 
 ## Software Engineering
 
