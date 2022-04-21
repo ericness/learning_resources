@@ -33,6 +33,13 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Pandas Tutor](https://pandastutor.com/)
     Shows a visual representation of Pandas data manipulation code.
 
+* Machine Learning
+    * [Machine Learning with Pytorch and Scikit Learn](
+        https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn)
+    by Sebastian Raschka. I read the first edition of this book back in the day and it was
+    a wonderful introduction to using Python for Data Science. Sebastian is on the fourth
+    edition as of 2022 and I'm sure the material is better than ever.
+
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
     Plain English explanations of the fundamentals of how neural networks work.
