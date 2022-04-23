@@ -9,6 +9,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Game Theory: A Non-Technical Introduction](https://store.doverpublications.com/0486296725.html) by Morton D. Davis - Seems like the best introductory
     book on the subject.
 
+* Tools
+    * [Desmos Graphing Calculator](https://www.desmos.com/calculator) Helpful tool to visualize formulas.
+
 ## Statistics
 
 * Bayesian
