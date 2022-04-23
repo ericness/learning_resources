@@ -50,6 +50,15 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Neural Networks explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     from 3Brown1Blue. These videos give an intuitive understanding of how neural networks work.
 
+* Natural Language Processing
+    * [Natural Langage Processing with Transformers](
+        https://www.oreilly.com/library/view/natural-language-processing/9781098103231/)
+    by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. NLP book by the Hugging Face crew. Discusses using
+    transformers for NLP tasks and more.
+    *  [Hugging Face Course](https://huggingface.co/course/chapter1/1)
+    Free online course by the team that has done a ton of breakthrough work in NLP. Teaches you to use
+    transformers to do text processing.
+
 * MLOps
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
     [Chip Huyen's](https://huyenchip.com/) Stanford course on building production ML systems.
