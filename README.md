@@ -22,6 +22,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
     This online and print book is an intuitive and highly-readable introduction to causal inference. It provides
     examples in R and Stata.
+    * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+    by Miguel Hernan and Jamie Robins. Book on causal inference by two professors at the Harvard School
+    of Public Health. Brings together information that was previously scattered across many journals
+    and disciplines into a single resource.
 
 ## Data Science
 
