@@ -46,6 +46,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     by Sebastian Raschka. I read the first edition of this book back in the day and it was
     a wonderful introduction to using Python for Data Science. Sebastian is on the fourth
     edition as of 2022 and I'm sure the material is better than ever.
+    * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+    by Christoph Molnar. We used the SHAP section of this book to discuss interpretable
+    methods at work. The rest of the book looks fantastic as well.
 
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
