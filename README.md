@@ -167,6 +167,10 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 ## Career
 
+* Job Search
+    * [The Standout Developer](https://www.thestandoutdeveloper.com/job-hunting)
+    Learn how to ace the interview, get companies reaching out to you, build a standout resume and more.
+
 * Interviewing
     * [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
     The original book that started the craze of technical interview resources. Has over 150 practice questions as well
