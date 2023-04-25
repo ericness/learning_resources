@@ -167,8 +167,13 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 ## Career
 
+* Career Development
+    * [Timeless Career Advice for Software Engineers](https://lbacaj.gumroad.com/l/career-advice-for-engineers) by Louie Bacaj
+    Advice on navigating the career ladder by someone who was the youngest Senior Director
+    ever in Walmart Engineering.
+
 * Job Search
-    * [The Standout Developer](https://www.thestandoutdeveloper.com/job-hunting)
+    * [The Standout Developer](https://www.thestandoutdeveloper.com/job-hunting) by Randall Kanna
     Learn how to ace the interview, get companies reaching out to you, build a standout resume and more.
 
 * Interviewing
