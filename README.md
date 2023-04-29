@@ -61,6 +61,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     from 3Brown1Blue. These videos give an intuitive understanding of how neural networks work.
 
 * Natural Language Processing
+    * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+    from DeepLearning.AI and Andrew Ng. Learn how to use a large language model (LLM) to quickly build new and powerful applications.
     * [Natural Langage Processing with Transformers](
         https://www.oreilly.com/library/view/natural-language-processing/9781098103231/)
     by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. NLP book by the Hugging Face crew. Discusses using
