@@ -49,6 +49,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
     by Christoph Molnar. We used the SHAP section of this book to discuss interpretable
     methods at work. The rest of the book looks fantastic as well.
+    * Machine Learning Design Interview [book](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z/) and [online course](https://www.educative.io/courses/machine-learning-system-design)
+    by [Khang Pham](https://mlengineer.io/) Bridges the gaps between Machine Learning “book” knowledge and Machine Learning in production. It’s very easy to find resources about certain Machine Learning techniques but there is a lack of resources that explain how these techniques are used at big companies at scale.  
 
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
