@@ -109,6 +109,10 @@ Books, courses and web sites on technical topics like machine learning and softw
         https://www.se-radio.net/2022/01/episode-495-vaughn-vernon-on-strategic-monoliths-and-microservices/
     ) with the author of this book. The book recommends making architectural decisions that correspond to the
     strategic direction of business.
+    * [Understanding Distributed Systems](https://understandingdistributed.systems/) by Roberto Vitillo
+    Recommended as a great first book to learn about distributed systems by Engineering with Utsav and
+    Gergely Orosz.
+
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
