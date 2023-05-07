@@ -205,5 +205,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [NeetCode](https://www.youtube.com/c/NeetCode)
     YouTube channel that explains the solutions to LeetCode problems. The explanations are clear and include
     both a theory and coding portion.
+    * [Interview Query](https://www.interviewquery.com/)
+    Practice interview questions for data analysis, business intelligence and machine learning interviews.
+    Based on questions from hundreds of tech companies.
 
 
