@@ -115,6 +115,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Microservice Architecture](https://microservices.io/index.html) is a web site from Chris Richardson
     which documents microservice patterns. He also has a [book](https://www.manning.com/books/microservices-patterns)
     on the same topic.
+    * [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) A set of design patterns
+    that are useful for building reliable, scalable, secure applications in the cloud. They were compiled by the Microsoft
+    Azure team, but the descriptions are platform agnostic.
 
 
 * Data Structures and Algorithms
