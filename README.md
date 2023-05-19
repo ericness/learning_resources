@@ -112,6 +112,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Understanding Distributed Systems](https://understandingdistributed.systems/) by Roberto Vitillo
     Recommended as a great first book to learn about distributed systems by Engineering with Utsav and
     Gergely Orosz.
+    * [Microservice Architecture](https://microservices.io/index.html) is a web site from Chris Richardson
+    which documents microservice patterns. He also has a [book](https://www.manning.com/books/microservices-patterns)
+    on the same topic.
 
 
 * Data Structures and Algorithms
