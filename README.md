@@ -29,6 +29,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     by Miguel Hernan and Jamie Robins. Book on causal inference by two professors at the Harvard School
     of Public Health. Brings together information that was previously scattered across many journals
     and disciplines into a single resource.
+    * [The Effect](https://theeffectbook.net/)
+    by Nick Huntington-Klein. The Effect is a book intended to introduce students (and non-students)
+    to the concepts of research design and causality in the context of observational data. The book
+    is written in an intuitive and approachable way and doesn’t overload on technical detail. I heard about this book on the [Practical AI podcast](https://changelog.com/practicalai/220).
 
 ## Data Science
 
