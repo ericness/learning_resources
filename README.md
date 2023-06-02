@@ -122,6 +122,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) A set of design patterns
     that are useful for building reliable, scalable, secure applications in the cloud. They were compiled by the Microsoft
     Azure team, but the descriptions are platform agnostic.
+    * [Event Sourcing in Python](https://leanpub.com/eventsourcinginpython)
+    by John Bywater. A book on how to do event sourcing using the Python [`eventsourcing`](
+        https://eventsourcing.readthedocs.io/en/stable/
+    ) package.
 
 
 * Data Structures and Algorithms
