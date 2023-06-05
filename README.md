@@ -43,6 +43,8 @@ Books, courses and web sites on technical topics like machine learning and softw
 * Data Wrangling
     * [Pandas Tutor](https://pandastutor.com/)
     Shows a visual representation of Pandas data manipulation code.
+    * [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
+    Set of brain teasers to help learn programming for multidimensional arrays.
 
 * Machine Learning
     * [Machine Learning with Pytorch and Scikit Learn](
