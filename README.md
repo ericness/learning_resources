@@ -155,6 +155,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
     This is a book about the DevOps revolution written in narrative form. It is highly recommended by
     [Josh Sheppard](https://www.linkedin.com/in/joshua-sheppard/), my group manager at C.H. Robinson.
+    * [A Cloud Guru](https://acloudguru.com/)
+    Great online courses to study for cloud certifications. I used their course to get my
+    AWS Cloud Practitioner certificate and had a good experience.
 
 ## Technology
 
