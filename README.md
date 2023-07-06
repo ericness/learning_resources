@@ -68,6 +68,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Neural Networks explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     from 3Brown1Blue. These videos give an intuitive understanding of how neural networks work.
 
+    * [What Are Embeddings?](https://vickiboykis.com/what_are_embeddings/)
+    A deep dive into embeddings by the inimitable Vicki Boykis.
+
 * Natural Language Processing
     * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
     from DeepLearning.AI and Andrew Ng. Learn how to use a large language model (LLM) to quickly build new and powerful applications.
