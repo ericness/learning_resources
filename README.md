@@ -59,7 +59,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     by [Khang Pham](https://mlengineer.io/) Bridges the gaps between Machine Learning “book” knowledge and Machine Learning in production. It’s very easy to find resources about certain Machine Learning techniques but there is a lack of resources that explain how these techniques are used at big companies at scale.  
     * [Altdeep](https://altdeep.ai/) Online courses in causal machine learning with deep
     neural networks. Created by Robert Osazuma Ness, a researcher at Microsoft Research.
-    * []
+    * [Causal AI](https://www.manning.com/books/causal-ai) A code-first introduction to
+    building machine learning and deep learning models that implement causal reasoning. 
 
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
