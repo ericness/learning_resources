@@ -199,6 +199,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
     This book is recommended by one of the hosts of the Staff Eng podcast. It contains a section
     about "Know How Managers" who are more technical leaders than people managers.
+    * [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) by Sarah Drasner.
+    Heard an [interview with Sarah about the book](https://changelog.com/podcast/540)
+    on the Changelog podcast. She has more than 10 years of experience in Engineering Management at all levels,
+    from Lead to VP at Netlify, Microsoft and Trulia/Zillow Group.
 
 ## Career
 
