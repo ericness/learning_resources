@@ -244,5 +244,7 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Interview Query](https://www.interviewquery.com/)
     Practice interview questions for data analysis, business intelligence and machine learning interviews.
     Based on questions from hundreds of tech companies.
+    * [Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) Online book by the one-and-only
+    Chip Huyen about how to prepare for ML Engineer interviews.
 
 
