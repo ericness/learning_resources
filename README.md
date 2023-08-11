@@ -176,7 +176,7 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Technology Review](https://www.technologyreview.com/) This online and print magazine from
     MIT follows the most important technology trends from many fields.
 
-## Writing
+## Writing and Documentation
 
 * From [The Pragmatic Engineer Newsletter](https://newsletter.pragmaticengineer.com/)
     * [The Writing Well Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
@@ -187,6 +187,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     An hour and a half video from Leadership Lab. One of the best talks about technical writing.
     * [On Writing Well](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202) by Willian Zinsser.
     The classic guide to writing nonfiction. The book that helped me write more concisely.
+* [Docs for Developers](https://docsfordevelopers.com/) How to write documentation by a group
+    of technical writers from Waymo and Stripe. This [Stack Overflow podcast](
+        https://stackoverflow.blog/2022/06/21/an-engineers-field-guide-to-great-technical-writing-ep-455/
+    )
+    has a great interview with the authors.
 
 ## Leadership
 
