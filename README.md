@@ -156,6 +156,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     * [Powerful Python](https://powerfulpython.com/book/) by Aaron Maxwell. This book is the perfect resource
     to take you from beginning to intermediate Python.
 
+* Networking
+    * [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
+    This course from Google is a recommended way to learn the basics of networking. It has over 30k
+    5 star reviews on Coursera.
+
 ## Infrastructure
 
 * DevOps
