@@ -136,6 +136,11 @@ Books, courses and web sites on technical topics like machine learning and softw
         https://eventsourcing.readthedocs.io/en/stable/
     ) package.
 
+* Coding
+    * [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
+    Screencasts by Gary Bernhardt explaining basic theoretical computer science concepts as well as
+    implementing systems like compilers, web servers etc. Also includes Execute Program which is
+    a learning environment using code examples to teach engineering skills.
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
