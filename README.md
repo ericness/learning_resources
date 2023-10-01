@@ -1,35 +1,41 @@
 # learning_resources
 Books, courses and web sites on technical topics like machine learning and software engineering.
 
+### Legend
+
+:blue_book: - Book
+:tv: - Video Course
+:memo: - Online Course or Exercises
+:hammer: - Tool
+
 ## Math
 
 * Game Theory - I got interested in this after listening to the NY Times article
 ["How A.I. Conquered Poker"](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html) on Audm.
-    * [Game Theory with Python](https://www.coursera.org/projects/game-theory-with-python) - Coursera course teaching the basics of game theory using Python.
-    * [Game Theory: A Non-Technical Introduction](https://store.doverpublications.com/0486296725.html) by Morton D. Davis - Seems like the best introductory
-    book on the subject.
+    * :memo: [Game Theory with Python](https://www.coursera.org/projects/game-theory-with-python) - Coursera course teaching the basics of game theory using Python.
+    * :blue_book: [Game Theory: A Non-Technical Introduction](https://store.doverpublications.com/0486296725.html) by Morton D. Davis - Seems like the best introductory book on the subject.
 
 * Tools
-    * [Desmos Graphing Calculator](https://www.desmos.com/calculator) Helpful tool to visualize formulas.
+    * :hammer: [Desmos Graphing Calculator](https://www.desmos.com/calculator) Helpful tool to visualize formulas.
 
 ## Statistics
 
 * Bayesian
-    * [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) This online and print book
+    * :blue_book: [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) This online and print book
     focuses on using Python to do Bayesian modeling. It's a welcome change from all of the Bayesian books in R, JAGS and other
     non-general purpose languages. The other Bayesian book in Python,
-    [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+    * :blue_book: [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     didn't impress me so it's nice to have an alternative.
 
 * Causal Inference
-    * [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
+    * :blue_book: [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
     This online and print book is an intuitive and highly-readable introduction to causal inference. It provides
     examples in R and Stata.
-    * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+    * :blue_book: [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
     by Miguel Hernan and Jamie Robins. Book on causal inference by two professors at the Harvard School
     of Public Health. Brings together information that was previously scattered across many journals
     and disciplines into a single resource.
-    * [The Effect](https://theeffectbook.net/)
+    * :blue_book: [The Effect](https://theeffectbook.net/)
     by Nick Huntington-Klein. The Effect is a book intended to introduce students (and non-students)
     to the concepts of research design and causality in the context of observational data. The book
     is written in an intuitive and approachable way and doesn’t overload on technical detail. I heard about this book on the [Practical AI podcast](https://changelog.com/practicalai/220).
@@ -37,29 +43,29 @@ Books, courses and web sites on technical topics like machine learning and softw
 ## Data Science
 
 * Introductory
-    * [An Introduction to Statistical Learning](https://www.statlearning.com/)
+    * :blue_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)
     The foundational book for machine learning. There is a second edition out that includes deep learning.
 
 * Data Wrangling
-    * [Pandas Tutor](https://pandastutor.com/)
+    * :hammer: [Pandas Tutor](https://pandastutor.com/)
     Shows a visual representation of Pandas data manipulation code.
-    * [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
+    * :memo: [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
     Set of brain teasers to help learn programming for multidimensional arrays.
 
 * Machine Learning
-    * [Machine Learning with Pytorch and Scikit Learn](
+    * :blue_book: [Machine Learning with Pytorch and Scikit Learn](
         https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn)
     by Sebastian Raschka. I read the first edition of this book back in the day and it was
     a wonderful introduction to using Python for Data Science. Sebastian is on the fourth
     edition as of 2022 and I'm sure the material is better than ever.
-    * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+    * :blue_book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
     by Christoph Molnar. We used the SHAP section of this book to discuss interpretable
     methods at work. The rest of the book looks fantastic as well.
     * Machine Learning Design Interview [book](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z/) and [online course](https://www.educative.io/courses/machine-learning-system-design)
     by [Khang Pham](https://mlengineer.io/) Bridges the gaps between Machine Learning “book” knowledge and Machine Learning in production. It’s very easy to find resources about certain Machine Learning techniques but there is a lack of resources that explain how these techniques are used at big companies at scale.  
     * [Altdeep](https://altdeep.ai/) Online courses in causal machine learning with deep
     neural networks. Created by Robert Osazuma Ness, a researcher at Microsoft Research.
-    * [Causal AI](https://www.manning.com/books/causal-ai) A code-first introduction to
+    * :blue_book: [Causal AI](https://www.manning.com/books/causal-ai) A code-first introduction to
     building machine learning and deep learning models that implement causal reasoning. 
 
 * Deep Learning
@@ -144,21 +150,21 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
-    * [A Common Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
+    * :blue_book: [A Common Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
     This is a great book to learn data structures and algorithms. The author has taught a live course on the subject many times
     and has distilled his learning down to this book. The explanations are clear and well illustrated. I highly recommend
     this book.
 
 * Legacy Systems
-    * [Kill It with Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
+    * :blue_book: [Kill It with Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
     This book is recommended by the hosts of the Staff Eng podcast. It discusses how to smartly refactor legacy systems
     without giving in to the knee-jerk reaction to rebuild from scratch.
 
 * Python
-    * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho
+    * :blue_book: [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho
     This is one of the most highly rated books for how to take your Python from beginner to advanced. Teaches you how to
     write idiomatic Python. The second edition was released in 2022.
-    * [Powerful Python](https://powerfulpython.com/book/) by Aaron Maxwell. This book is the perfect resource
+    * :blue_book: [Powerful Python](https://powerfulpython.com/book/) by Aaron Maxwell. This book is the perfect resource
     to take you from beginning to intermediate Python.
     * :tv: [Talk Python Training](https://training.talkpython.fm/) Short video courses on a variety of
     Python related topics. The courses are taught by Michael Kennedy, the host of the Talk Python to
