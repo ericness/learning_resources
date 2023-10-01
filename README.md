@@ -4,8 +4,11 @@ Books, courses and web sites on technical topics like machine learning and softw
 ### Legend
 
 :blue_book: - Book
+
 :tv: - Video Course
+
 :memo: - Online Course or Exercises
+
 :hammer: - Tool
 
 ## Math
