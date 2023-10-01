@@ -160,6 +160,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     write idiomatic Python. The second edition was released in 2022.
     * [Powerful Python](https://powerfulpython.com/book/) by Aaron Maxwell. This book is the perfect resource
     to take you from beginning to intermediate Python.
+    * :tv: [Talk Python Training](https://training.talkpython.fm/) Short video courses on a variety of
+    Python related topics. The courses are taught by Michael Kennedy, the host of the Talk Python to
+    me podcast, and his associates. Includes courses on mongodb, async programming, FastAPI and more.
 
 * Networking
     * [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
