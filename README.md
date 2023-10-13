@@ -150,6 +150,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     Screencasts by Gary Bernhardt explaining basic theoretical computer science concepts as well as
     implementing systems like compilers, web servers etc. Also includes Execute Program which is
     a learning environment using code examples to teach engineering skills.
+    * [Wizard Zines](https://wizardzines.com/) by Julia Evans
+    Easy to digest zines on particular topics like DNS, debugging, etc. Julia makes highly technical material
+    both easy to learn and dare I say fun?
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
