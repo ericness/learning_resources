@@ -146,11 +146,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     ) package.
 
 * Coding
-    * [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
+    * :memo: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
     Screencasts by Gary Bernhardt explaining basic theoretical computer science concepts as well as
     implementing systems like compilers, web servers etc. Also includes Execute Program which is
     a learning environment using code examples to teach engineering skills.
-    * [Wizard Zines](https://wizardzines.com/) by Julia Evans
+    * :blue_book: [Wizard Zines](https://wizardzines.com/) by Julia Evans
     Easy to digest zines on particular topics like DNS, debugging, etc. Julia makes highly technical material
     both easy to learn and dare I say fun?
 
