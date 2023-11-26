@@ -181,6 +181,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     This course from Google is a recommended way to learn the basics of networking. It has over 30k
     5 star reviews on Coursera.
 
+* Tools
+    * :tv: [Vimcasts](http://vimcasts.org/)
+    Videos, courses and books for improving your `vim` skills.
+
 ## Infrastructure
 
 * DevOps
