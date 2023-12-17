@@ -153,6 +153,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     * :blue_book: [Wizard Zines](https://wizardzines.com/) by Julia Evans
     Easy to digest zines on particular topics like DNS, debugging, etc. Julia makes highly technical material
     both easy to learn and dare I say fun?
+    * :blue_book: [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) by Kent Beck
+    Recommends first cleaning up any legacy codebase before trying to modernize it. The book is
+    [highly recommended](https://newsletter.pragmaticengineer.com/p/dead-code-getting-untangled-and-coupling)
+    by Gergely Orosz.
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
