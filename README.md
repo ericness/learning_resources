@@ -181,6 +181,9 @@ Books, courses and web sites on technical topics like machine learning and softw
     me podcast, and his associates. Includes courses on mongodb, async programming, FastAPI and more.
 
 * JavaScript
+    * :memo: [Scrimba](https://scrimba.com/) Online courses for learning HTML, CSS, JavaScript and React.
+    The courses provide an online development environment and are well constructed. I wrote a
+    [review of the HTML and CSS course](https://medium.com/p/d493a8312c3f).
     * :blue_book: [Elequent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. Highly recommended
     book for beginners to learn JavaScript. Book content is published online as well as print.
 
