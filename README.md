@@ -17,6 +17,9 @@ Books, courses and web sites on technical topics like machine learning and softw
 ["How A.I. Conquered Poker"](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html) on Audm.
     * :memo: [Game Theory with Python](https://www.coursera.org/projects/game-theory-with-python) - Coursera course teaching the basics of game theory using Python.
     * :blue_book: [Game Theory: A Non-Technical Introduction](https://store.doverpublications.com/0486296725.html) by Morton D. Davis - Seems like the best introductory book on the subject.
+* Linear Algebra
+    * :blue_book: [Linear Algebra Done Right](https://linear.axler.net/) by Sheldon Axler. Widely recommended text
+    for learning linear algebra. Free online PDF is available from the publisher in addition to a print edition.
 
 * Tools
     * :hammer: [Desmos Graphing Calculator](https://www.desmos.com/calculator) Helpful tool to visualize formulas.
