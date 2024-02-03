@@ -180,6 +180,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     Python related topics. The courses are taught by Michael Kennedy, the host of the Talk Python to
     me podcast, and his associates. Includes courses on mongodb, async programming, FastAPI and more.
 
+* JavaScript
+    * :blue_book: [Elequent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. Highly recommended
+    book for beginners to learn JavaScript. Book content is published online as well as print.
+
 * Networking
     * [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
     This course from Google is a recommended way to learn the basics of networking. It has over 30k
