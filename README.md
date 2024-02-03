@@ -13,6 +13,10 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 ## Math
 
+* General
+    * :tv: [3Blue1Brown](https://www.youtube.com/@3blue1brown) Wonderful channel of math explainer videos.
+    The series on Calculus and Linear Algebra make some of the most confusing concepts make intuitive sense.
+
 * Game Theory - I got interested in this after listening to the NY Times article
 ["How A.I. Conquered Poker"](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html) on Audm.
     * :memo: [Game Theory with Python](https://www.coursera.org/projects/game-theory-with-python) - Coursera course teaching the basics of game theory using Python.
