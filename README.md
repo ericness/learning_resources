@@ -130,7 +130,7 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 * General
     * :blue_book: [Code: The Hidden Language of Computer Hardware and Software](
-        https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) by Charles Petzold
+        https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) by Charles Petzold.
     I read the first edition of this clearly written introduction to computer fundamentals years ago
     and loved it. There's now a second edition out that looks even better.
 
