@@ -50,6 +50,12 @@ Books, courses and web sites on technical topics like machine learning and softw
     to the concepts of research design and causality in the context of observational data. The book
     is written in an intuitive and approachable way and doesn’t overload on technical detail. I heard about this book on the [Practical AI podcast](https://changelog.com/practicalai/220).
 
+## Artificial Intelligence
+
+* Models
+    * :blue_book: [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)
+    Covers all the most important categories in the Open Source AI space, from model evaluations to deployment.
+
 ## Data Science
 
 * Introductory
