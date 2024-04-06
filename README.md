@@ -230,6 +230,12 @@ Books, courses and web sites on technical topics like machine learning and softw
     Great online courses to study for cloud certifications. I used their course to get my
     AWS Cloud Practitioner certificate and had a good experience.
 
+## Product Management
+
+* :blue_book: [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/)
+  by Marty Cagan. This is a great overview of best practices in product management from the founder of
+  the Silicon Valley Product Group.
+
 ## Technology
 
 * Commentary
