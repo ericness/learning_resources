@@ -163,6 +163,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     by John Bywater. A book on how to do event sourcing using the Python [`eventsourcing`](
         https://eventsourcing.readthedocs.io/en/stable/
     ) package.
+    * :blue_book: [Balancing Coupling in Software Design](https://www.oreilly.com/library/view/balancing-coupling-in/9780137353514/)
+    by Vlad Khonopov. I heard the [author talk about this book on the Add Dot podcast](https://adddot.io/podcast/s2e2/). He had some great
+    points about how some coupling in necessary in software systems, but unnecessary coupling can make
+    systems brittle and unmaintainable.
 
 * Coding
     * :tv: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
