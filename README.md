@@ -262,6 +262,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     )
     has a great interview with the authors.
 
+## Product Management
+
+* :memo: [AI Product Management Bootcamp](https://maven.com/marily-nika/ai-pm-bootcamp)
+    This program offers a comprehensive package comprising 25 hours of live content & 6 practical hands-on exercises encompassing both technical and strategic aspects.
+
 ## Leadership
 
 * Technical Leadership
