@@ -202,6 +202,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     * :tv: [Talk Python Training](https://training.talkpython.fm/) Short video courses on a variety of
     Python related topics. The courses are taught by Michael Kennedy, the host of the Talk Python to
     me podcast, and his associates. Includes courses on mongodb, async programming, FastAPI and more.
+    * :blue_book: [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) by Allen Downey
+    I heard about this book on an episode of [Talk Python to Me](https://talkpython.fm/episodes/show/423/solving-10-different-simulation-problems-with-python).
+    It covers simulating a variety of real-world processes like population growth, infectious diseases
+    and so forth. It's by the same author as Think Bayes, Think Python, etc. There's also a [free ebook](https://allendowney.github.io/ModSimPy/)
+    version with Google Colab notebooks.
 
 * JavaScript
     * :memo: [Scrimba](https://scrimba.com/) Online courses for learning HTML, CSS, JavaScript and React.
