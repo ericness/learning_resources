@@ -67,6 +67,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     Shows a visual representation of Pandas data manipulation code.
     * :memo: [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
     Set of brain teasers to help learn programming for multidimensional arrays.
+    * :blue_book: [Pandas Workout](https://www.manning.com/books/pandas-workout) by Reuven Lerner
+    Work out your pandas skills against dozens of real-world challenges, each carefully designed to build an
+    intuitive knowledge of essential pandas tasks.
+
 
 * Machine Learning
     * :blue_book: [Machine Learning with Pytorch and Scikit Learn](
