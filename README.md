@@ -191,6 +191,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     Recommends first cleaning up any legacy codebase before trying to modernize it. The book is
     [highly recommended](https://newsletter.pragmaticengineer.com/p/dead-code-getting-untangled-and-coupling)
     by Gergely Orosz.
+    * :blue_book: [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom
+    Ever wanted to make your own programming language or wondered how they are designed and built? If so, this book is for you.
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
