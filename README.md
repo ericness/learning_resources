@@ -176,6 +176,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     by Vlad Khonopov. I heard the [author talk about this book on the Add Dot podcast](https://adddot.io/podcast/s2e2/). He had some great
     points about how some coupling in necessary in software systems, but unnecessary coupling can make
     systems brittle and unmaintainable.
+    * :blue_book: [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
+    The go-to book for learning how to design robust distributed systems.
 
 * Coding
     * :tv: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
