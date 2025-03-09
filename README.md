@@ -220,6 +220,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     It covers simulating a variety of real-world processes like population growth, infectious diseases
     and so forth. It's by the same author as Think Bayes, Think Python, etc. There's also a [free ebook](https://allendowney.github.io/ModSimPy/)
     version with Google Colab notebooks.
+    * :blue_book: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
+    If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be.
+    But what if you could have your computer do them for you? In Automate the Boring Stuff with Python, you'll learn how to use Python
+    to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required. 
 
 * JavaScript
     * :memo: [Scrimba](https://scrimba.com/) Online courses for learning HTML, CSS, JavaScript and React.
