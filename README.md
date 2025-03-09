@@ -240,13 +240,16 @@ Books, courses and web sites on technical topics like machine learning and softw
 ## Infrastructure
 
 * DevOps
-    * [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
+    * :blue_book: [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
     This is a book about the DevOps revolution written in narrative form. It is highly recommended by
     [Josh Sheppard](https://www.linkedin.com/in/joshua-sheppard/), my group manager at C.H. Robinson.
 * Cloud 
     * [A Cloud Guru](https://acloudguru.com/)
     Great online courses to study for cloud certifications. I used their course to get my
     AWS Cloud Practitioner certificate and had a good experience.
+* Systems
+    * :blue_book: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+    OSTEP ("oh step"), or the "the comet book", represents the culmination of years of teaching intro to operating systems to both undergraduates and graduates at the University of Wisconsin-Madison Computer Sciences department for nearly 25 years.The book is organized around three concepts fundamental to OS construction: virtualization (of CPU and memory), concurrency (locks and condition variables), and persistence (disks, RAIDS, and file systems).
 
 ## Product Management
 
