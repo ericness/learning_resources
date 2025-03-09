@@ -112,6 +112,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     Free online course by the team that has done a ton of breakthrough work in NLP. Teaches you to use
     transformers to do text processing.
 
+* Large Language Models
+    * :tv: [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
+    A free survey course on LLMs, taught by practitioners. A set of workshops and talks from practitioners on topics
+    like evals, retrieval-augmented-generation (RAG), fine-tuning and more.
+
 * MLOps
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
     [Chip Huyen's](https://huyenchip.com/) Stanford course on building production ML systems.
@@ -284,14 +289,14 @@ Books, courses and web sites on technical topics like machine learning and softw
     is no longer being produced.
 
 * Management
-    * [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
+    * :blue_book: [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
     This book is recommended by one of the hosts of the Staff Eng podcast. It contains a section
     about "Know How Managers" who are more technical leaders than people managers.
-    * [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) by Sarah Drasner.
+    * :blue_book: [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) by Sarah Drasner.
     Heard an [interview with Sarah about the book](https://changelog.com/podcast/540)
     on the Changelog podcast. She has more than 10 years of experience in Engineering Management at all levels,
     from Lead to VP at Netlify, Microsoft and Trulia/Zillow Group.
-    * [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
+    * :blue_book: [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
     Considered the definitive guide on navigating a management career path in tech.
 
 ## Career
