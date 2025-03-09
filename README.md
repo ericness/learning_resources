@@ -291,6 +291,8 @@ Books, courses and web sites on technical topics like machine learning and softw
     Heard an [interview with Sarah about the book](https://changelog.com/podcast/540)
     on the Changelog podcast. She has more than 10 years of experience in Engineering Management at all levels,
     from Lead to VP at Netlify, Microsoft and Trulia/Zillow Group.
+    * [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
+    Considered the definitive guide on navigating a management career path in tech.
 
 ## Career
 
