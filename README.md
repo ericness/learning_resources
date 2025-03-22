@@ -116,7 +116,7 @@ Books, courses and web sites on technical topics like machine learning and softw
     * :tv: [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
     A free survey course on LLMs, taught by practitioners. A set of workshops and talks from practitioners on topics
     like evals, retrieval-augmented-generation (RAG), fine-tuning and more.
-    * :bluebook: [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+    * :blue_book: [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
     Step-by-step guide to building an GPT-style LLM similar from the ground up using Python and Pytorch.
 
 * MLOps
