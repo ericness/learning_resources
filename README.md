@@ -49,6 +49,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     by Nick Huntington-Klein. The Effect is a book intended to introduce students (and non-students)
     to the concepts of research design and causality in the context of observational data. The book
     is written in an intuitive and approachable way and doesn’t overload on technical detail. I heard about this book on the [Practical AI podcast](https://changelog.com/practicalai/220).
+    * :blue_book: [Causal Inference and Discovery in Python](https://www.packtpub.com/en-us/product/causal-inference-and-discovery-in-python-9781804612989)
+    by Aleksander Molak
+        - Examine Pearlian causal concepts such as structural causal models, interventions, counterfactuals, and more
+        - Discover modern causal inference techniques for average and heterogenous treatment effect estimation
+        - Explore and leverage traditional and modern causal discovery methods
 
 ## Artificial Intelligence
 
