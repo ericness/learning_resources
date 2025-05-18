@@ -54,6 +54,8 @@ Books, courses and web sites on technical topics like machine learning and softw
         - Examine Pearlian causal concepts such as structural causal models, interventions, counterfactuals, and more
         - Discover modern causal inference techniques for average and heterogenous treatment effect estimation
         - Explore and leverage traditional and modern causal discovery methods
+    * :blue_book: [Causal Inference in Python](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) by Matheus Facure
+    In this book, author Matheus Facure, senior data scientist at Nubank, explains the largely untapped potential of causal inference for estimating impacts and effects.
 
 ## Artificial Intelligence
 
