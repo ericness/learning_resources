@@ -24,7 +24,9 @@ Books, courses and web sites on technical topics like machine learning and softw
 * Linear Algebra
     * :blue_book: [Linear Algebra Done Right](https://linear.axler.net/) by Sheldon Axler. Widely recommended text
     for learning linear algebra. Free online PDF is available from the publisher in addition to a print edition.
-
+* Math for Machine Learning
+    * :memo: [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/)
+    Short online course from MIT on the math behind diffusion models.
 * Tools
     * :hammer: [Desmos Graphing Calculator](https://www.desmos.com/calculator) Helpful tool to visualize formulas.
 
