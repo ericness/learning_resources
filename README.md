@@ -40,6 +40,10 @@ Books, courses and web sites on technical topics like machine learning and softw
     non-general purpose languages. The other Bayesian book in Python,
     * :blue_book: [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     didn't impress me so it's nice to have an alternative.
+    * :blue_book: [Statistical Rethinking](https://xcelab.net/rm/) by Richard McElreath
+    Popular book for learning Bayesian statistics. More technical and requires a strong math background. There
+    are [free YouTube lectures](https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file) from the author that cover the content of the book as well.
+
 
 * Causal Inference
     * :blue_book: [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
