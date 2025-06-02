@@ -358,5 +358,6 @@ Books, courses and web sites on technical topics like machine learning and softw
     Based on questions from hundreds of tech companies.
     * [Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) Online book by the one-and-only
     Chip Huyen about how to prepare for ML Engineer interviews.
-
+    * :memo: [Design Gurus](https://www.designgurus.io/)
+    Online prep courses for system design and coding interviews.
 
