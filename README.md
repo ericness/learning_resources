@@ -11,6 +11,8 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 :hammer: - Tool
 
+:file_folder: - Code Repository
+
 ## Math
 
 * General
@@ -74,7 +76,7 @@ Books, courses and web sites on technical topics like machine learning and softw
 * Data Wrangling
     * :hammer: [Pandas Tutor](https://pandastutor.com/)
     Shows a visual representation of Pandas data manipulation code.
-    * :memo: [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
+    * :file_folder: [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
     Set of brain teasers to help learn programming for multidimensional arrays.
     * :blue_book: [Pandas Workout](https://www.manning.com/books/pandas-workout) by Reuven Lerner
     Work out your pandas skills against dozens of real-world challenges, each carefully designed to build an
