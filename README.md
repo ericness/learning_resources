@@ -362,4 +362,6 @@ Books, courses and web sites on technical topics like machine learning and softw
     Chip Huyen about how to prepare for ML Engineer interviews.
     * :memo: [Design Gurus](https://www.designgurus.io/)
     Online prep courses for system design and coding interviews.
+    * :blue_book: [Data Science Interview Book](https://book.thedatascienceinterviewproject.com/)
+    Study material and questions to prepare for data science interviews.
 
