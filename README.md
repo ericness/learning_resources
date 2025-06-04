@@ -141,9 +141,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     Book on designing ML systems also from [Chip Huyen](https://huyenchip.com/).
 
 * Data Visualization
-    * [Storytelling with Data](https://www.storytellingwithdata.com/) Great blog and books about
+    * :blue_book: [Storytelling with Data](https://www.storytellingwithdata.com/) Great blog and books about
     data visualization. Cole Nussbaumer Knaflic has created some amazing resources for learning how
     to communicate data visually.
+    * :blue_book: [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/)
+    This page lists design patterns for dashboard design collected to support the design and creative exploration of dashboard design.
 
 ## Data Systems
 
