@@ -65,6 +65,11 @@ Books, courses and web sites on technical topics like machine learning and softw
     * :blue_book: [Causal Inference in Python](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) by Matheus Facure
     In this book, author Matheus Facure, senior data scientist at Nubank, explains the largely untapped potential of causal inference for estimating impacts and effects.
 
+## Systems Thinking
+
+* :blue_book: [Thinking in Systems](https://www.chelseagreen.com/product/thinking-in-systems/) by Donella Meadows
+Classic book on how to use systems thinking to understand and improve systems.
+
 ## Artificial Intelligence
 
 * Models
