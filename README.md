@@ -141,7 +141,9 @@ Classic book on how to use systems thinking to understand and improve systems.
 
 * MLOps
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
-    [Chip Huyen's](https://huyenchip.com/) Stanford course on building production ML systems.
+    Chip Huyen's Stanford course on building production ML systems.
+    * [Chip Huyen's Blog](https://huyenchip.com/blog/)
+    Blog posts about a variety of practical ML and AI system design topics.
     * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
     Book on designing ML systems also from [Chip Huyen](https://huyenchip.com/).
 
