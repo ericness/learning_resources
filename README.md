@@ -375,4 +375,5 @@ Classic book on how to use systems thinking to understand and improve systems.
     Online prep courses for system design and coding interviews.
     * :blue_book: [Data Science Interview Book](https://book.thedatascienceinterviewproject.com/)
     Study material and questions to prepare for data science interviews.
-
+    * [Pragmatic Engineer Interview Resources](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+    List of system design and coding interview resources from the author of the Pragmatic Engineer newsletter.
