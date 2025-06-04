@@ -139,13 +139,13 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
     Step-by-step guide to building an GPT-style LLM similar from the ground up using Python and Pytorch.
 
-* MLOps
+* ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
     Chip Huyen's Stanford course on building production ML systems.
     * [Chip Huyen's Blog](https://huyenchip.com/blog/)
     Blog posts about a variety of practical ML and AI system design topics.
     * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-    Book on designing ML systems also from [Chip Huyen](https://huyenchip.com/).
+    Book on designing ML systems also from Chip Huyen.
 
 * Data Visualization
     * :blue_book: [Storytelling with Data](https://www.storytellingwithdata.com/) Great blog and books about
@@ -324,6 +324,10 @@ Classic book on how to use systems thinking to understand and improve systems.
     * [Staff Eng Podcast](https://podcast.staffeng.com/)
     Interviews with Staff-plus engineers from a variety of big tech companies. Sadly, this podcast
     is no longer being produced.
+    * :blue_book: [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) by Tanya Reilly
+    The staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
+    This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You'll read about how to be a
+    leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain.
 
 * Management
     * :blue_book: [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
