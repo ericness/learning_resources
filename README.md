@@ -108,6 +108,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     neural networks. Created by Robert Osazuma Ness, a researcher at Microsoft Research.
     * :blue_book: [Causal AI](https://www.manning.com/books/causal-ai) A code-first introduction to
     building machine learning and deep learning models that implement causal reasoning. 
+    * :memo: [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
+    Online MIT course that teaches about Data-Centric AI (DCAI). DCAI is an emerging science that studies techniques
+    to improve datasets, which is often the best way to improve performance in practical ML applications.
 
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
