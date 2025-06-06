@@ -90,7 +90,8 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [Pandas Workout](https://www.manning.com/books/pandas-workout) by Reuven Lerner
     Work out your pandas skills against dozens of real-world challenges, each carefully designed to build an
     intuitive knowledge of essential pandas tasks.
-
+    * [Pandas Illustrated: The Definitive Visual Guide to Pandas](https://medium.com/better-programming/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) by Lev Maximov
+    Illustrated article that explains all the most important concepts and operations in Pandas.
 
 * Machine Learning
     * :blue_book: [Machine Learning with Pytorch and Scikit Learn](
