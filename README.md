@@ -387,3 +387,5 @@ Classic book on how to use systems thinking to understand and improve systems.
     Study material and questions to prepare for data science interviews.
     * [Pragmatic Engineer Interview Resources](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
     List of system design and coding interview resources from the author of the Pragmatic Engineer newsletter.
+    * [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
+    Resource with all the concepts needed to pass a system design interview.
