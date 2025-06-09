@@ -261,6 +261,8 @@ Classic book on how to use systems thinking to understand and improve systems.
     If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be.
     But what if you could have your computer do them for you? In Automate the Boring Stuff with Python, you'll learn how to use Python
     to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required. 
+    * :tv: [pyvideo](https://pyvideo.org/?__s=sk9lg7kgoijummpeuqlj)
+    Compilation of recorded presentations from PyCon, PyData and many other Python events.
 
 * JavaScript
     * :memo: [Scrimba](https://scrimba.com/) Online courses for learning HTML, CSS, JavaScript and React.
