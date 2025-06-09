@@ -174,6 +174,13 @@ Classic book on how to use systems thinking to understand and improve systems.
     ) by Terry Halpin and Tony Morgan. This is a large textbook that covers much more about ORM than Terry's
     introductory book. This is the bible of relational data modeling.
 
+* Data Engineering
+    * :blue_book: [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis and Matt Housley
+    This book walks you through the data engineering lifecycle and show you how to stitch together a variety of cloud
+    technologies to serve the needs of downstream data consumers. You'll understand how to apply the concepts of data
+    generation, ingestion, orchestration, transformation, storage, and governance that are critical in any data
+    environment regardless of the underlying technology.
+
 ## Software Engineering
 
 * General
