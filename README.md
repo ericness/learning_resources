@@ -119,6 +119,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     * [fast.ai](https://www.fast.ai/) Courses for anyone to learn how to use neural networks. The courses can
     be used even if you haven't done anything with ML before.
 
+    * :memo: [aiquizzes](https://aiquizzes.com/)
+    Quizzes and learning modules that support the fast.ai course.
+
     * [Neural Networks explainer videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     from 3Brown1Blue. These videos give an intuitive understanding of how neural networks work.
 
