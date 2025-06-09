@@ -208,6 +208,10 @@ Classic book on how to use systems thinking to understand and improve systems.
     systems brittle and unmaintainable.
     * :blue_book: [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
     The go-to book for learning how to design robust distributed systems.
+    * [Event Modeling](https://eventmodeling.org/)
+    Event Modeling is a method of describing systems using an example of how information has changed within them
+    over time. Event Modeling specifically omits transient details and looks at what the information flow is and
+    what the user sees at any particular point in time.
 
 * Coding
     * :tv: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
