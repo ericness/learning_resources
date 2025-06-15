@@ -112,6 +112,11 @@ Classic book on how to use systems thinking to understand and improve systems.
     Online MIT course that teaches about Data-Centric AI (DCAI). DCAI is an emerging science that studies techniques
     to improve datasets, which is often the best way to improve performance in practical ML applications.
 
+* Recommender Systems
+    * :blue_book: [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk
+    This book explains how recommender systems work and shows how to create and apply them for your
+    site. After covering the basics, you’ll see how to collect user data and produce personalized recommendations. 
+
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
     Plain English explanations of the fundamentals of how neural networks work.
