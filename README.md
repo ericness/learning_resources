@@ -118,6 +118,10 @@ Classic book on how to use systems thinking to understand and improve systems.
     site. After covering the basics, you’ll see how to collect user data and produce personalized recommendations. 
     * :blue_book: [Building Recommendation Systems in Python and JAX](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/) by Bryan Bischof and Hector Yee
     In this practical book, the authors illustrate the core concepts and examples to help you create a RecSys for any industry or scale. You'll learn the math, ideas, and implementation details you need to succeed.
+    * :memo: [Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems#outcomes)
+    This five-module Coursera specialization teaches all the main ideas behind recommender systems.
+    The courses offer interactive, spreadsheet-based exercises to master different algorithms, along with an honors
+    track where you can go into greater depth using the LensKit open source toolkit. 
 
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
