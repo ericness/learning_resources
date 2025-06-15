@@ -116,6 +116,8 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems) by Kim Falk
     This book explains how recommender systems work and shows how to create and apply them for your
     site. After covering the basics, you’ll see how to collect user data and produce personalized recommendations. 
+    * :blue_book: [Building Recommendation Systems in Python and JAX](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/) by Bryan Bischof and Hector Yee
+    In this practical book, the authors illustrate the core concepts and examples to help you create a RecSys for any industry or scale. You'll learn the math, ideas, and implementation details you need to succeed.
 
 * Deep Learning
     * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask
