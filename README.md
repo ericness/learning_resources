@@ -381,8 +381,10 @@ Classic book on how to use systems thinking to understand and improve systems.
 
 * Career Development
     * [Timeless Career Advice for Software Engineers](https://lbacaj.gumroad.com/l/career-advice-for-engineers) by Louie Bacaj
-    Advice on navigating the career ladder by someone who was the youngest Senior Director
-    ever in Walmart Engineering.
+    Advice on navigating the career ladder by someone who was the youngest Senior Director ever in Walmart Engineering.
+    * :blue_book: [The Software Enginer's Guidebook](https://www.engguidebook.com/) by Gergely Orosz
+    An excellent book to help you navigate your career from junior developer up through staff engineer. Talks about
+    all aspects of professional engineering and provides practical guidance on how to succeed.
 
 * Job Search
     * [The Standout Developer](https://www.thestandoutdeveloper.com/job-hunting) by Randall Kanna
