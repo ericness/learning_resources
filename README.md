@@ -16,6 +16,10 @@ Books, courses and web sites on technical topics like machine learning and softw
 ## Math
 
 * General
+    * :memo: [Math Academy](https://mathacademy.com)
+    Amazing online resource for learning math from grade school up through multivariable calculus. Also
+    includes a course on Math for Machine Learning. Small lessons and spaced repetition makes learning faster
+    and easier than using a textbook.
     * :tv: [3Blue1Brown](https://www.youtube.com/@3blue1brown) Wonderful channel of math explainer videos.
     The series on Calculus and Linear Algebra make some of the most confusing concepts make intuitive sense.
 
