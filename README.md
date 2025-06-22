@@ -254,6 +254,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     by Gergely Orosz.
     * :blue_book: [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom
     Ever wanted to make your own programming language or wondered how they are designed and built? If so, this book is for you.
+    * :blue_book: [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler
+    One of the all time classics of software engineering. This book describes the process of refactoring and
+    spends most of its time explaining how to do the various refactorings.
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
