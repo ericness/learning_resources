@@ -156,6 +156,8 @@ Classic book on how to use systems thinking to understand and improve systems.
     like evals, retrieval-augmented-generation (RAG), fine-tuning and more.
     * :blue_book: [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
     Step-by-step guide to building an GPT-style LLM similar from the ground up using Python and Pytorch.
+    * :memo: [DeepLearning.AI](https://www.deeplearning.ai/)
+    Andrew Ng's education site with a wide range of courses on deep learning, generative AI and more.
 
 * ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
