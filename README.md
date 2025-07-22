@@ -162,6 +162,8 @@ Classic book on how to use systems thinking to understand and improve systems.
     Step-by-step guide to building an GPT-style LLM similar from the ground up using Python and Pytorch.
     * :memo: [DeepLearning.AI](https://www.deeplearning.ai/)
     Andrew Ng's education site with a wide range of courses on deep learning, generative AI and more.
+    * :tv: [AI Evals For Engineers & PMs](https://maven.com/parlance-labs/evals)
+    Learn how to evaluate AI systems for correctness and safety.
 
 * ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
