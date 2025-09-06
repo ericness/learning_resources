@@ -164,6 +164,8 @@ Classic book on how to use systems thinking to understand and improve systems.
     Andrew Ng's education site with a wide range of courses on deep learning, generative AI and more.
     * :tv: [AI Evals For Engineers & PMs](https://maven.com/parlance-labs/evals)
     Learn how to evaluate AI systems for correctness and safety.
+    * :tv: [Stop Saying RAG is Dead](https://hamel.dev/notes/llm/rag/not_dead.html)
+    Series of videos for understanding modern RAG pipelines.
 
 * ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
