@@ -142,6 +142,8 @@ Classic book on how to use systems thinking to understand and improve systems.
 
     * [What Are Embeddings?](https://vickiboykis.com/what_are_embeddings/)
     A deep dive into embeddings by the inimitable Vicki Boykis.
+    * :memo: [Mojo GPU Puzzles](https://puzzles.modular.com/introduction.html) from Modular.
+    Learn GPU programming using Modular's efficient new language. Mojo provides a practical approach to GPU programming, making it more accessible.
 
 * Natural Language Processing
     * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
