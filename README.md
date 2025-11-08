@@ -263,6 +263,10 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler
     One of the all time classics of software engineering. This book describes the process of refactoring and
     spends most of its time explaining how to do the various refactorings.
+    * :blue_book: [Beyond Vibe Coding](https://beyond.addy.ie/) by Addy Osmani
+    This book goes beyond vibe coding. AI-assisted engineering is a more structured approach that combines the creativity
+    of vibe coding with the rigor of traditional engineering practices. It involves specs, rigor and emphasizes collaboration
+    between human developers and AI tools, ensuring that the final product is not only functional but also maintainable and secure.
 
 * Data Structures and Algorithms
     * See the Career - Interviewing section for more resources
