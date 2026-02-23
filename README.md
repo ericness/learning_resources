@@ -323,10 +323,15 @@ Classic book on how to use systems thinking to understand and improve systems.
 
 ## Infrastructure
 
-* DevOps
+* DevOps / Site Reliability Engineering
     * :blue_book: [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
     This is a book about the DevOps revolution written in narrative form. It is highly recommended by
     [Josh Sheppard](https://www.linkedin.com/in/joshua-sheppard/), my group manager at C.H. Robinson.
+    * :blue_book: Site Reliability Engineering [print](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) [online](https://sre.google/sre-book/table-of-contents/)
+    In this collection of essays and articles, key members of Google's Site Reliability Team explain how and why their commitment to the entire lifecycle has enabled
+    the company to successfully build, deploy, monitor, and maintain some of the largest software systems in the world. You'll learn the principles and practices that
+    enable Google engineers to make systems more scalable, reliable, and efficient—lessons directly applicable to your organization.
+
 * Cloud 
     * [A Cloud Guru](https://acloudguru.com/)
     Great online courses to study for cloud certifications. I used their course to get my
