@@ -215,6 +215,10 @@ Classic book on how to use systems thinking to understand and improve systems.
         https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) by Charles Petzold.
     I read the first edition of this clearly written introduction to computer fundamentals years ago
     and loved it. There's now a second edition out that looks even better.
+    * :memo: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+    Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s
+    rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the
+    command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
 * Software Architecture
     * [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
