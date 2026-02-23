@@ -249,6 +249,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     Event Modeling is a method of describing systems using an example of how information has changed within them
     over time. Event Modeling specifically omits transient details and looks at what the information flow is and
     what the user sees at any particular point in time.
+    * :blue_book: [Learning Domain Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by Vlad Khonopov.
+    This practical book provides you with a set of core patterns, principles, and practices for analyzing business domains, understanding business strategy, and,
+    most importantly, aligning software design with its business needs.
 
 * Coding
     * :tv: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
