@@ -168,6 +168,10 @@ Classic book on how to use systems thinking to understand and improve systems.
     Learn how to evaluate AI systems for correctness and safety.
     * :tv: [Stop Saying RAG is Dead](https://hamel.dev/notes/llm/rag/not_dead.html)
     Series of videos for understanding modern RAG pipelines.
+    * :file_folder: [LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
+    The LLM Course repository is a comprehensive educational resource that provides a structured learning roadmap for Large Language Models.
+    It serves as a central knowledge hub that organizes curated content, external references, and hands-on notebooks across three progressive
+    learning tracks: LLM Fundamentals, The LLM Scientist, and The LLM Engineer.
 
 * ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
