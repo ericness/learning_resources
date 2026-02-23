@@ -252,6 +252,10 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [Learning Domain Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by Vlad Khonopov.
     This practical book provides you with a set of core patterns, principles, and practices for analyzing business domains, understanding business strategy, and,
     most importantly, aligning software design with its business needs.
+    * :blue_book: [Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard
+    This new edition of the best-selling industry standard shows you how to create systems that run longer, with fewer failures, and recover better when bad
+    things happen. New coverage includes DevOps, microservices, and cloud-native architecture. Stability antipatterns have grown to include systemic problems
+    in large-scale systems. This is a must-have pragmatic guide to engineering for production systems.
 
 * Coding
     * :tv: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
