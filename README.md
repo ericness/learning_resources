@@ -393,6 +393,8 @@ Classic book on how to use systems thinking to understand and improve systems.
 
 * :memo: [AI Product Management Bootcamp](https://maven.com/marily-nika/ai-pm-bootcamp)
     This program offers a comprehensive package comprising 25 hours of live content & 6 practical hands-on exercises encompassing both technical and strategic aspects.
+* :blue_book: [The Mom Test](https://www.momtestbook.com/) by Rob Fitzpatrick
+    The quick and easy handbook about how to get more learning and more sales out of your customer conversations. Even when everyone is lying to you.
 
 ## Leadership
 
