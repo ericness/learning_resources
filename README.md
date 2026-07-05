@@ -173,6 +173,12 @@ Classic book on how to use systems thinking to understand and improve systems.
     It serves as a central knowledge hub that organizes curated content, external references, and hands-on notebooks across three progressive
     learning tracks: LLM Fundamentals, The LLM Scientist, and The LLM Engineer.
 
+* LLM Inference
+    * :file_folder: [mini-sglang](https://github.com/sgl-project/mini-sglang)
+    Mini-SGLang is a compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. With a compact codebase of ~5,000 lines of Python, it serves as both a capable inference engine and a transparent reference for researchers and developers.
+    * :file_folder: [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm)
+    A lightweight vLLM implementation built from scratch.
+
 * ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
     Chip Huyen's Stanford course on building production ML systems.
