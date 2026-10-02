@@ -13,6 +13,8 @@ Books, courses and web sites on technical topics like machine learning and softw
 
 :file_folder: - Code Repository
 
+:link: - Resource Collection
+
 ## Math
 
 * General
@@ -80,6 +82,11 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)
     Covers all the most important categories in the Open Source AI space, from model evaluations to deployment.
 
+* Voice Agents
+    * :file_folder: [Realtime Phone Agents Course](https://github.com/neural-maze/realtime-phone-agents-course)
+    A project-based course and code repository for building AI voice agents that handle live phone conversations.
+    It combines FastRTC, Twilio, Superlinked retrieval, speech recognition and synthesis, and GPU deployment on Runpod.
+
 ## Data Science
 
 * Introductory
@@ -144,6 +151,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     A deep dive into embeddings by the inimitable Vicki Boykis.
     * :memo: [Mojo GPU Puzzles](https://puzzles.modular.com/introduction.html) from Modular.
     Learn GPU programming using Modular's efficient new language. Mojo provides a practical approach to GPU programming, making it more accessible.
+    * :memo: [WebGPU Puzzles](https://www.answer.ai/posts/2024-09-12-gpupuzzles.html)
+    Answer.AI’s interactive exercises teach GPU programming through small coding challenges that run directly in your browser.
+    Built with WebGPU, they execute on your local GPU and automatically check results without requiring a separate CUDA environment.
 
 * Natural Language Processing
     * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -178,6 +188,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     Mini-SGLang is a compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. With a compact codebase of ~5,000 lines of Python, it serves as both a capable inference engine and a transparent reference for researchers and developers.
     * :file_folder: [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     A lightweight vLLM implementation built from scratch.
+    * :blue_book: [Inference Engineering](https://www.baseten.co/inference-engineering/) by Philip Kiely
+    A practical guide to serving generative AI models efficiently in production. It connects model architecture, GPU hardware,
+    inference software, optimization techniques, and deployment decisions to latency, cost, and reliability.
 
 * ML System Design
     * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) Slides and notes from
@@ -186,6 +199,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     Blog posts about a variety of practical ML and AI system design topics.
     * [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
     Book on designing ML systems also from Chip Huyen.
+    * :blue_book: [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
+    An online book explaining how large language models run on TPUs and GPUs, including hardware limits, communication costs, and parallelism.
+    It develops practical ways to estimate memory requirements, training time, and inference performance at scale.
 
 * Data Visualization
     * :blue_book: [Storytelling with Data](https://www.storytellingwithdata.com/) Great blog and books about
@@ -225,6 +241,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s
     rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the
     command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+    * :link: [The Pragmatic Engineer’s Reading & Listening List](https://blog.pragmaticengineer.com/my-reading-list/) by Gergely Orosz
+    An annotated collection of books on software engineering, career development, and engineering management.
+    It also includes newsletters and podcasts, making it a useful starting point for choosing further reading and listening.
 
 * Software Architecture
     * [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
@@ -266,6 +285,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     This new edition of the best-selling industry standard shows you how to create systems that run longer, with fewer failures, and recover better when bad
     things happen. New coverage includes DevOps, microservices, and cloud-native architecture. Stability antipatterns have grown to include systemic problems
     in large-scale systems. This is a must-have pragmatic guide to engineering for production systems.
+    * :blue_book: [Understanding Eventsourcing](https://leanpub.com/eventmodeling-and-eventsourcing) by Martin Dilger
+    A practical introduction to event modeling, CQRS, and event sourcing, progressing from system design to working code.
+    It includes implementation patterns for common scenarios and connects visual modeling with the construction of event-sourced applications.
 
 * Coding
     * :tv: [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
@@ -329,6 +351,11 @@ Classic book on how to use systems thinking to understand and improve systems.
     * :blue_book: [Elequent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. Highly recommended
     book for beginners to learn JavaScript. Book content is published online as well as print.
 
+* Security
+    * :blue_book: [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) by Justin Richer and Antonio Sanso
+    Explains OAuth 2 through practical implementations of a client, authorization server, and protected resource.
+    The book covers tokens, API access, OpenID Connect, and common implementation risks.
+
 * Networking
     * [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
     This course from Google is a recommended way to learn the basics of networking. It has over 30k
@@ -362,6 +389,10 @@ Classic book on how to use systems thinking to understand and improve systems.
 * :blue_book: [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/)
   by Marty Cagan. This is a great overview of best practices in product management from the founder of
   the Silicon Valley Product Group.
+
+* :blue_book: [Project to Product](https://itrevolution.com/product/project-to-product/) by Mik Kersten
+    Introduces the Flow Framework for connecting software delivery with business value. The book explains how organizations can shift
+    from temporary projects toward lasting products and measure how work moves through their delivery systems.
 
 ## Technology
 
@@ -406,6 +437,12 @@ Classic book on how to use systems thinking to understand and improve systems.
     The staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
     This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You'll read about how to be a
     leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain.
+    * :memo: [Impact through Influence in Engineering Teams](https://maven.com/irina-stanescu/influence-swe) by Irina Stanescu
+    An online course that teaches engineers how to build trust, secure support, and move projects forward without formal authority.
+    It includes practical frameworks and exercises for stakeholder relationships, persuasive communication, conflict, and presentations.
+    * :link: [Awesome CTO](https://github.com/kuchin/awesome-cto)
+    A curated collection for CTOs and engineering executives, with particular emphasis on startups and rapidly growing companies.
+    It covers hiring, people management, development processes, architecture, business responsibilities, and the CTO role.
 
 * Management
     * :blue_book: [High Output Management](https://penguinrandomhousehighereducation.com/book/?isbn=9780679762881)
@@ -417,6 +454,14 @@ Classic book on how to use systems thinking to understand and improve systems.
     from Lead to VP at Netlify, Microsoft and Trulia/Zillow Group.
     * :blue_book: [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
     Considered the definitive guide on navigating a management career path in tech.
+    * :blue_book: [Frictionless: How to Outpace Your Competition in the AI Era](https://developerexperiencebook.com/) by Nicole Forsgren and Abi Noda
+    Explains how developer experience affects an engineering organization’s ability to deliver software.
+    Its seven-step methodology helps teams identify friction, measure its impact, and remove obstacles in tools and workflows.
+
+* Communication
+    * :blue_book: [Simply Said: Communicating Better at Work and Beyond](https://www.exec-comm.com/product/simply-said/) by Jay Sullivan
+    Offers practical guidance for clearer writing, stronger presentations, more effective meetings, and better professional relationships.
+    Its central principle is to shape communication around the audience’s needs and perspective.
 
 ## Career
 
@@ -465,3 +510,12 @@ Classic book on how to use systems thinking to understand and improve systems.
     List of system design and coding interview resources from the author of the Pragmatic Engineer newsletter.
     * :memo: [interviewing.io Guides](https://interviewing.io/learn#interview-guides)
     Guides on for FAANG interviews, how to pass the system design interview and more.
+    * :blue_book: [ByteByteGo Behavioral Interview Book](https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews) by Steve Huynh
+    A guide to preparing for behavioral interviews, with more than 130 questions and 72 example stories spanning entry-level through principal roles.
+    It explains what interviewers look for and provides a framework for turning your experience into clear, effective answers.
+    * :memo: [PuzzledQuant](https://www.puzzledquant.com/)
+    An online preparation platform for quantitative interviews, with practice problems, courses, and coding exercises.
+    Its probability puzzles and mathematical brainteasers help connect theoretical knowledge with interview problem-solving.
+    * :blue_book: [Generative AI System Design Interview](https://blog.bytebytego.com/p/our-new-book-generative-ai-system) by Ali Aminian and Hao Sheng
+    Presents a seven-step framework for answering generative AI system design questions. Ten worked examples cover applications such as
+    chatbots, retrieval-augmented generation, translation, and image and video generation.
