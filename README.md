@@ -176,6 +176,9 @@ Classic book on how to use systems thinking to understand and improve systems.
     Andrew Ng's education site with a wide range of courses on deep learning, generative AI and more.
     * :tv: [AI Evals For Engineers & PMs](https://maven.com/parlance-labs/evals)
     Learn how to evaluate AI systems for correctness and safety.
+    * :blue_book: [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) by Shreya Shankar and Hamel Husain
+    A practical guide to testing and improving LLM applications. Covers error analysis, building representative test sets,
+    code-based checks and LLM judges, and monitoring quality, latency and cost in production.
     * :tv: [Stop Saying RAG is Dead](https://hamel.dev/notes/llm/rag/not_dead.html)
     Series of videos for understanding modern RAG pipelines.
     * :file_folder: [LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
